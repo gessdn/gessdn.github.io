@@ -1,5 +1,9 @@
 {
   "images/about/me.jpg": "images/about/me-d47cc817e0.jpg",
+  "images/about/web-away-green.jpg": "images/about/web-away-green-d6fcdbb979.jpg",
+  "images/about/web-away.jpg": "images/about/web-away-81f70f3ecd.jpg",
+  "images/about/web-closeup.jpg": "images/about/web-closeup-4599e825cf.jpg",
+  "images/about/web-front.jpg": "images/about/web-front-dc04b0ad9f.jpg",
   "images/home/final.gif": "images/home/final-493bf74254.gif",
   "images/home/idea.jpg": "images/home/idea-d69214e360.jpg",
   "images/home/idea.png": "images/home/idea-68aecd651b.png",
@@ -113,5 +117,5 @@
   "images/portfolio/product-design/web-pillow.jpg": "images/portfolio/product-design/web-pillow-f38d9a6dfb.jpg",
   "images/portfolio/vector-portraits.jpg": "images/portfolio/vector-portraits-8c80a38ed6.jpg",
   "javascripts\\app.js": "javascripts\\app-6fdd6cdd7a863980185c.js",
-  "stylesheets/app.css": "stylesheets/app-4b95966d2d.css"
+  "stylesheets/app.css": "stylesheets/app-b7c371a710.css"
 }
